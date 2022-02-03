@@ -1,7 +1,7 @@
 ## Ciao, I'm Giorgio 👋
 ### 💻 **Software developer**<br>
-- Working as a front-end developer for <a href="https://www.reply.com/it/">`Reply`</a><br>
-- Developing my personal budgeting app <a href="giorgiocesaroni.github.io/finanza">`Finanza`</a><br>
+- Working as a front-end developer for <a target="_blank" href="https://www.reply.com/it/">`Reply`</a><br>
+- Developing my personal budgeting app <a target="_blank" href="giorgiocesaroni.github.io/finanza">`Finanza`</a><br>
 ### 🎸 **Multi-instrumentalist**<br>
 ### 🎵 **Producer**<br>
 ### 📚 **Student**<br>
