@@ -1,11 +1,11 @@
 ## Ciao, I'm Giorgio 👋
 ### 💻 **Software developer**<br>
-▫️ Working as a front-end developer for <a target="_blank" href="https://www.reply.com/it/">`Reply`</a><br>
+▫️ Working as a front-end developer<br>
 ▫️ Developing my budgeting PWA <a target="_blank" href="https://giorgiocesaroni.github.io/finanza/">`Finanza`</a><br>
-▫️ Building an e-commerce for <a target="_blank" href="https://colle-juno.vercel.app/">`Colle Juno`</a><br>
+▫️ Building e-commerce tools<br>
 ### 🎸 **Multi-instrumentalist**<br>
-### 🎵 **Producer**<br>
-### 📚 **Student**<br>
+### 🎵 **Music Producer**<br>
+### 📚 **CS Student**<br>
 ### 📌 **Rome, Italy**
 
 <!--
