@@ -1,6 +1,6 @@
 ## Ciao, I'm Giorgio 👋
-### 💻 **Software developer**<br>
-### 🎸 **Multi-instrumentalist**<br>
-### 🎵 **Music Producer**<br>
-### 📚 **CS Student**<br>
-### 📌 **Rome, Italy**
+- 💻 Software developer
+- 🎸 Multi-instrumentalist
+- 🎵 Music Producer
+- 📚 CS Student
+- 📌 Rome, Italy
