@@ -1,5 +1,5 @@
 ## Ciao, I'm Giorgio 👋
-- 💻 Software developer
+- 💻 Software Developer
 - 🎸 Multi-instrumentalist
 - 🎵 Music Producer
 - 📚 CS Student
