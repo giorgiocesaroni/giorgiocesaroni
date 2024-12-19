@@ -1,6 +1,6 @@
 ## Ciao, I'm Giorgio 👋
-- 💻 Software Developer
 - ✨ Co-founder of [Oracolo](https://oracolo.app)
+- 💻 Software Developer
 - 🎸 Multi-instrumentalist
 - 🎵 Music Producer
 - 📌 Rome, Italy
