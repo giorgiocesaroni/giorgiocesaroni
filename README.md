@@ -2,5 +2,4 @@
 ✨ Co-founder of Eracolo<br />
 💻 Software Developer<br />
 🎸 Multi-instrumentalist<br />
-🎵 Music Producer<br />
-📌 Rome, Italy
+🎵 Music Producer
