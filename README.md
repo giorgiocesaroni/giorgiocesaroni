@@ -1,5 +1,5 @@
 ## Ciao, I'm Giorgio 👋
-✨ Co-founder of Eracolo<br />
-💻 Software Developer<br />
+✨ Co-founder of [Eracolo](https://www.eracolo.com/)<br />
+💻 Software developer<br />
 🎸 Multi-instrumentalist<br />
-🎵 Music Producer
+🎵 Music producer
