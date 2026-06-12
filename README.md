@@ -1,6 +1,6 @@
 # Ciao, I'm Giorgio 👋
 
-**I'm a software engineer, musician, and producer.**
+I'm a software engineer, musician, and producer.
 
 ⚙️ I co-founded [Eracolo](https://www.eracolo.com), a pricing platform.<br>
 🎸 I play guitar among other instruments.<br>
