@@ -1,12 +1,15 @@
 # Ciao, I'm Giorgio 👋
 
-I'm a software engineer, musician, and producer.
+I'm a software engineer, musician, and producer. Here's some things about me:
 
-⚙️ I co-founded [Eracolo](https://www.eracolo.com), a pricing platform.<br>
-🎸 I play guitar among other instruments.<br>
-💿 I produce [CES](https://open.spotify.com/artist/6MmkcMB76RqX4B4mdhkTQE?si=1frYeYmbTIGMhSaq_8EJNQ)'s music.
+⚙️ **I co-founded** Eracolo, a dynamic pricing SaaS. [Visit our website](https://www.eracolo.com/?utm_source=github_gio).<br>
+🎸 **I play** guitar among other instruments.<br>
+💿 **I produce** CES's music. [Listen on spotify](https://open.spotify.com/artist/6MmkcMB76RqX4B4mdhkTQE?si=1frYeYmbTIGMhSaq_8EJNQ).
 
 ## Side projects
 
-🥑 **Mio**, an AI nutritionist based on Gemini.<br>
-💰 **Fin**, a personal finance agent also based on Gemini.
+I'm also working on these projects:
+
+🥑 **Mio**, an agentic food tracking app.<br>
+💰 **Fin**, an agentic personal finance and budgeting app.<br>
+✏️ **Pie**, an agentic product information enrichment app.
