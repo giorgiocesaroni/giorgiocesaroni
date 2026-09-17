@@ -12,4 +12,4 @@ I'm also working on these projects:
 
 🥑 **Mio**, an agentic food tracking app.<br>
 💰 **Fin**, an agentic personal finance and budgeting app.<br>
-✏️ **Pie**, an agentic product information enrichment app.
+✏️ **Plinio**, an agentic product information enrichment app.
